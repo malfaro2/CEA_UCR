@@ -1,14 +1,15 @@
 ---
 title: "UCR: Puntajes de Régimen Académico de profesores en propiedad, 2019"
-output: github_document
+author: "Marcela Alfaro Córdoba"
+output: 
+  github_document:
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
-
-[Marcela Alfaro Córdoba](https://malfaro2.github.io)
 
 ## ¿Qué es Régimen Académico?
 

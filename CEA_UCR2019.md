@@ -1,7 +1,14 @@
 UCR: Puntajes de Régimen Académico de profesores en propiedad, 2019
 ================
+Marcela Alfaro Córdoba
 
-[Marcela Alfaro Córdoba](https://malfaro2.github.io)
+-   [¿Qué es Régimen Académico?](#qué-es-régimen-académico)
+-   [¿De dónde vienen los datos?](#de-dónde-vienen-los-datos)
+-   [¿Qué hice con los datos?](#qué-hice-con-los-datos)
+-   [¿Cómo cargué los datos?](#cómo-cargué-los-datos)
+-   [¿Cuáles columnas obtuve al final?](#cuáles-columnas-obtuve-al-final)
+-   [¿Qué quiero saber?](#qué-quiero-saber)
+-   [¿Cuáles preguntas quedan abiertas?](#cuáles-preguntas-quedan-abiertas)
 
 ¿Qué es Régimen Académico?
 --------------------------
