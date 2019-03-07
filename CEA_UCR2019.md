@@ -1,7 +1,7 @@
-Universidad de Costa Rica: Estadísticas descriptivas de los puntajes de Régimen Académico de profesores en propiedad, 2019
+UCR: Puntajes de Régimen Académico de profesores en propiedad, 2019
 ================
 
-[Marcela Alfaro Córdoba](malfaro2.github.io)
+[Marcela Alfaro Córdoba](https://malfaro2.github.io)
 
 ¿Qué es Régimen Académico?
 --------------------------
@@ -142,6 +142,6 @@ Por supuesto que quedan muchas más preguntas que respuestas, algunas solo neces
 -   ¿Por qué existen más hombres en propiedad que mujeres?
 -   ¿Cuáles factores explican esas diferencias de puntajes entre hombres y mujeres?
 
-Ojalá que este análisis descriptivo pueda abrir el paso para responder estas y muchas otras preguntas. Si quieren hacer sugerencias acerca de cómo mejorar el código, pueden escribirme, en [mi página](malfaro2.github.io) pueden encontrar mis datos.
+Ojalá que este análisis descriptivo pueda abrir el paso para responder estas y muchas otras preguntas. Si quieren hacer sugerencias acerca de cómo mejorar el código, pueden escribirme, en [mi página](https://malfaro2.github.io) pueden encontrar mis datos.
 
 Este post tiene una licencia CC BY-SA 4.0 de [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
