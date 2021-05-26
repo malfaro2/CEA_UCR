@@ -18,14 +18,14 @@ La Comisión Institucional de Régimen Académico de la Universidad de Costa Ric
 ¿De dónde vienen los datos?
 ---------------------------
 
-En su afán de transparencia, la UCR pone a disposición del público en general una lista actualizada ([CEA, UCR](http://www.cea.ucr.ac.cr/index.php/departamentos/regimen/listado-regimen)) de todos los docentes en propiedad de acuerdo con la unidad académica a la que pertenecen, su grado académico, sexo, la jornada en propiedad y el puntaje y la categoría que se le asignó en su última evaluación.
+En su afán de transparencia, la UCR pone a disposición del público en general una lista actualizada ([CEA, UCR](https://www.cea.ucr.ac.cr/index.php/es/component/sppagebuilder/?view=page&id=57)) de todos los docentes en propiedad de acuerdo con la unidad académica a la que pertenecen, su grado académico, sexo, la jornada en propiedad y el puntaje y la categoría que se le asignó en su última evaluación.
 
-El detalle de cómo se asigna el puntaje, puede consultarse [aquí](http://www.cea.ucr.ac.cr/media/regimen/resumen_asignacion_puntos.pdf).
+El detalle de cómo se asigna el puntaje, puede consultarse [aquí](https://www.cea.ucr.ac.cr/images/regacad/Manual%20y%20Orientaciones/CRA-DOC-05%20(color).pdf).
 
 ¿Qué hice con los datos?
 ------------------------
 
-Este es un análisis descriptivo de los puntajes presentados en [este documento](http://www.cea.ucr.ac.cr/index.php/departamentos/regimen/listado-regimen). Mi objetivo es presentar los resultados, pero también el código que utilicé para extraer los datos, para que el ejercicio sea reproducible, y por supuesto, criticable.
+Este es un análisis descriptivo de los puntajes presentados en [este documento](https://www.cea.ucr.ac.cr/index.php/es/component/sppagebuilder/?view=page&id=57). Mi objetivo es presentar los resultados, pero también el código que utilicé para extraer los datos, para que el ejercicio sea reproducible, y por supuesto, criticable.
 
 ¿Cómo cargué los datos?
 -----------------------
